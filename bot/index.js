@@ -425,4 +425,4 @@ discordClient.on(`ready`, (async () => {
   }))
 }))
 
-discordClient.login(`MTIwOTcwNDk4NjIyOTg2NjU5Ng.G5Yvip.nMgYf9C9tgBwHotg9BuvLgpoSYpHFABrIPTpVM`)
+discordClient.login(``)
