@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "axios": "^1.6.7",
+        "bedrock-protocol": "^3.35.0",
+        "colors": "^1.4.0",
+        "discord.js": "^14.14.1",
+        "fs": "^0.0.1-security",
+        "minecraft-data": "^3.62.0",
+        "pm2": "^5.3.1",
+        "uuid": "^9.0.1"
+    }
+}
